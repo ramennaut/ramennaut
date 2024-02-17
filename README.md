@@ -28,20 +28,14 @@
 </div>
 
 <!-- About -->
-## Hi, I'm Lenz. I'm a social technologist.
-I study socio-anthropology and computer science. Sometimes, I code. Mostly, I explore and write about stuff that I find interesting, like:
-- slow fashion
-- emerging tech (ethics and determinisms)
-- social movements and communities
-- [a bunch of other things too!](https://www.lenz.wiki/now/)
-
-I'm a big **_tech x policy_** gurlie. If it's something that looks at how a group of people (and their culture) reacts to something new (either new tech or new policy or even new virus) in their environment, then I'm probably into it.
+## Hi, I'm Lenz.
+I study socio-anthropology and computer science. Sometimes, I code. Mostly, I explore and write about [stuff that I find interesting](https://www.lenz.wiki/now/). I'm a big **_tech x policy_** gurlie. If it's something that looks at how a group of people (and their culture) reacts to something new (either new tech or new policy or even new virus) in their environment, then I'm probably into it. Simulations and modeling is sort of what I'm good at. I'm also particular on documentation and creating usable datasets to help out other projects.
 
 <!-- Tech -->
 ## The tech I've used more than once
 This is arranged according to frequency of use, from daily to at least a few projects in the last 4 years.
 
-#### Tools
+### Tools
 <div id="tools">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -52,7 +46,7 @@ This is arranged according to frequency of use, from daily to at least a few pro
     <img src="https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=ltspice&logoColor=white" alt="LTSpice">
 </div>
 
-#### Stack
+### Stack
 <div id="stack">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
     <img src="https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logoColor=white" alt="Java">
@@ -89,3 +83,7 @@ I'll be honest. I use GitHub mainly to submit my coding projects for schools, an
 - **Collaborating.** I mostly work alone so I haven't gotten much practice in collaboration and contribution.
 - **Optimization.** I self-studied how to code so it's only now (that I'm studying CS in school) that I've been learning how to optimize my code.
 - **Planning.** I tend to overestimate or underestimate the time and resources I need to finish a project and that's something I've been working on.
+- **Publishing.** I don't exactly post my work publicly, which I want to change since I also want to document my progress.
+
+---
+**Colophon:** This README profile is a living markdown file -- always a work in progress. Last updated 18 Feb 2024 by <a href="https://github.com/ramennaut">ramennaut</a>.
