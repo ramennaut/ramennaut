@@ -3,6 +3,14 @@
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jbblUf9N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/twxlvixc93j8vmm4zp53.gif" width="150"/>
 </div>
 
+<!-- Profile views -->
+<div id="views" align="center">
+    <a href="https://www.lenz.wiki/">
+        <img src="https://img.shields.io/badge/digital_garden-lenz.wiki-informational?style=for-the-badge&color=9999FF&logoColor=white">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=ramennaut&label=views_counter&style=for-the-badge&color=FF69B4" alt="Profile Views"/>
+</div>
+
 <!-- Socials -->
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/lenzdagohoy/">
@@ -19,29 +27,21 @@
     </a>
 </div>
 
-<!-- Profile views -->
-<div id="views" align="center">
-    <a href="https://www.lenz.wiki/">
-        <img src="https://img.shields.io/badge/digital_garden-lenz.wiki-informational?style=for-the-badge&color=9999FF&logoColor=white">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=ramennaut&label=views_counter&style=for-the-badge&color=FF69B4" alt="Profile Views"/>
-</div>
-
 <!-- About -->
-### Hi, I'm Lenz.
+### Hi, I'm Lenz. I'm a social technologist.
 I study socio-anthropology and computer science. Sometimes, I code. Mostly, I explore and write about stuff that I find interesting, like:
 - slow fashion
 - emerging tech (ethics and determinisms)
 - social movements and communities
 - [a bunch of other things too!](https://www.lenz.wiki/now/)
 
-I'm a big **_tech x policy_** gurlie. If it's something that looks at how culture reacts to something new in the environment (e.g., industries reacting to ChatGPT, schools reacting to COVID-19), then I'm probably into it.
+I'm a big **_tech x policy_** gurlie. If it's something that looks at how a group of people (and their culture) reacts to something new (either new tech or new policy or even new virus) in their environment, then I'm probably into it.
 
-<!-- Tech Stack -->
+<!-- Tech -->
 ### The tech I've used more than once
 This is arranged according to frequency of use, from daily to at least a few projects in the last 4 years.
 
-###### Tools
+##### Tools
 <div id="tools">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -52,7 +52,7 @@ This is arranged according to frequency of use, from daily to at least a few pro
     <img src="https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=ltspice&logoColor=white" alt="LTSpice">
 </div>
 
-###### Stack
+##### Stack
 <div id="stack">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
     <img src="https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logoColor=white" alt="Java">
@@ -65,7 +65,7 @@ This is arranged according to frequency of use, from daily to at least a few pro
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
-### The tech I want to master
+### The tech I want to learn
 I'm always looking to expand what I can do. This is a list of tech I probably used a few times but I still haven't figured out.
 <div id="study">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
@@ -75,9 +75,17 @@ I'm always looking to expand what I can do. This is a list of tech I probably us
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </div>
 
-### How I'm doing on GitHub
+
+<!-- GitHub Stats -->
+### How I'm using GitHub
+I'll be honest. I use GitHub mainly to submit my coding projects for schools, and maybe some hackathons here and there. I haven't posted side projects I've built. I haven't even posted the actual *project* projects I coded from my freelance work, org work, or even *work* work.
 <div id="stats">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramennaut&theme=dracula" alt="GitHub profile summary statistics">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramennaut&theme=dracula" alt="GitHub profile year summary" height="150px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramennaut&layout=compact&theme=dracula" alt="GitHub top languages" height="150px">
 </div>
+
+### As a rookie developer, I've yet to be better at...
+- **Collaborating.** I mostly work alone so I haven't gotten much practice in collaboration and contribution.
+- **Optimization.** I self-studied how to code so it's only now (that I'm studying CS in school) that I've been learning how to optimize my code.
+- **Planning.** I tend to overestimate or underestimate the time and resources I need to finish a project and that's something I've been working on.
