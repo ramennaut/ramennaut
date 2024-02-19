@@ -81,7 +81,7 @@ I'll be honest. I use GitHub mainly to submit my coding projects for schools, an
 
 ## As a rookie developer, I've yet to be better at...
 - **Collaborating.** I mostly work alone so I haven't gotten much practice in collaboration and contribution.
-- **Optimization.** I self-studied how to code so it's only now (that I'm studying CS in school) that I've been learning how to optimize my code.
+- **Optimizating.** I self-studied how to code so it's only now (that I'm studying CS in school) that I've been learning how to optimize my code.
 - **Planning.** I tend to overestimate or underestimate the time and resources I need to finish a project and that's something I've been working on.
 - **Publishing.** I don't exactly post my work publicly, which I want to change since I also want to document my progress.
 
