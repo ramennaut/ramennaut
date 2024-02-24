@@ -72,7 +72,7 @@ I'm always looking to expand what I can do. This is a list of tech I probably us
 
 <!-- GitHub Stats -->
 ## How I'm using GitHub
-I'll be honest. I use GitHub mainly to submit my coding projects for schools, and maybe some hackathons here and there. I haven't posted side projects I've built. I haven't even posted the actual *project* projects I coded from my freelance work, org work, or even *work* work.
+I'll be honest. I use GitHub mainly to submit my coding projects for school, and maybe some hackathons here and there. I haven't posted side projects I've built. I haven't even posted the actual *project* projects I coded from my freelance work, org work, or even *work* work.
 <div id="stats">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramennaut&theme=dracula" alt="GitHub profile summary statistics">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramennaut&theme=dracula" alt="GitHub profile year summary" height="150px">
