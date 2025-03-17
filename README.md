@@ -29,7 +29,7 @@
 
 <!-- About -->
 ## Hi, I'm Lenz.
-I study socio-anthropology and computer science. Sometimes, I code. Mostly, I explore and write about [stuff that I find interesting](https://www.lenz.wiki/now/). I'm a big **_tech x policy_** gurlie. If it's something that looks at how a group of people (and their culture) reacts to something new (either new tech or new policy or even new virus) in their environment, then I'm probably into it. Simulations and modeling is sort of what I'm good at. I'm also particular on documentation and creating usable datasets to help out other projects.
+I study socio-anthropology and computer science. Sometimes, I code. Mostly, I explore and write about [stuff that I find interesting](https://www.lenz.wiki/now/). I like working at the interface of tech and culture. If it's something that looks at how a group of people reacts to something new in their environment, then I'm probably into it. Simulations and modeling is sort of what I'm good at. I'm also particularly into documentation (a weird thing to be into) and creating usable datasets to help out other projects.
 
 <!-- Tech -->
 ## The tech I've used more than once
@@ -43,7 +43,7 @@ This is arranged according to frequency of use, from daily to at least a few pro
     <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Obsidian">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau">
     <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt="Overleaf">
-    <img src="https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=ltspice&logoColor=white" alt="LTSpice">
+    <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
 </div>
 
 ### Stack
@@ -51,9 +51,6 @@ This is arranged according to frequency of use, from daily to at least a few pro
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
     <img src="https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -65,7 +62,6 @@ I'm always looking to expand what I can do. This is a list of tech I probably us
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </div>
 
