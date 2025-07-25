@@ -5,7 +5,7 @@
 
 <!-- Profile views -->
 <div id="views" align="center">
-    <a href="https://www.lenz.wiki/">
+    <a href="https://lenz.wiki/">
         <img src="https://img.shields.io/badge/digital_garden-lenz.wiki-informational?style=for-the-badge&color=9999FF&logoColor=white">
     </a>
     <img src="https://komarev.com/ghpvc/?username=ramennaut&label=views_counter&style=for-the-badge&color=FF69B4" alt="Profile Views"/>
@@ -29,7 +29,7 @@
 
 <!-- About -->
 ## Hi, I'm Lenz.
-I study socio-anthropology and computer science. Sometimes, I code. Mostly, I explore and write about [stuff that I find interesting](https://www.lenz.wiki/now/). I like working at the interface of tech and culture. If it's something that looks at how a group of people reacts to something new in their environment, then I'm probably into it. Simulations and modeling is sort of what I'm good at. I'm also particularly into documentation (a weird thing to be into) and creating usable datasets to help out other projects.
+I'm an independent AI safety researcher and product builder. I finished socio-anthropology and computer science at uni, and recently decided to code during my free time. I like working at the interface of tech and culture. If it's something that looks at how a group of people reacts to something new in their environment, then I'm probably into it. Simulations and modeling is sort of what I'm good at. I'm also particularly into documentation (a weird thing to be into) and creating usable datasets to help out other projects.
 
 <!-- Tech -->
 ## The tech I've used more than once
