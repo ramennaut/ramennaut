@@ -29,7 +29,7 @@
 
 <!-- About -->
 ## Hi, I'm Lenz.
-I'm an independent AI safety researcher and product builder. I finished socio-anthropology and computer science at uni, and recently decided to code during my free time. I like working at the interface of tech and culture. If it's something that looks at how a group of people reacts to something new in their environment, then I'm probably into it. Simulations and modeling is sort of what I'm good at. I'm also particularly into documentation (a weird thing to be into) and creating usable datasets to help out other projects.
+I'm an independent AI safety researcher and field-builder. I finished socio-anthropology and computer science at uni, and I like to code during my free time. I like working at the interface of tech and culture. If it's something that looks at how a group of people reacts to something new in their environment, then I'm probably into it. Simulations and modeling is sort of what I'm good at. I'm also particularly into documentation (a weird thing to be into) and creating usable datasets to help out other projects.
 
 <!-- Tech -->
 ## The tech I've used more than once
@@ -74,12 +74,6 @@ I'll be honest. I use GitHub mainly to submit my coding projects for school, and
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramennaut&theme=dracula" alt="GitHub profile year summary" height="150px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramennaut&layout=compact&theme=dracula" alt="GitHub top languages" height="150px">
 </div>
-
-## As a rookie developer, I've yet to be better at...
-- **Collaborating.** I mostly work alone so I haven't gotten much practice in collaboration and contribution.
-- **Optimizating.** I self-studied how to code so it's only now (that I'm studying CS in school) that I've been learning how to optimize my code.
-- **Planning.** I tend to overestimate or underestimate the time and resources I need to finish a project and that's something I've been working on.
-- **Publishing.** I don't exactly post my work publicly, which I want to change since I also want to document my progress.
 
 ---
 **Colophon:** This README profile is a living markdown file -- always a work in progress. Last updated 18 Feb 2024 by <a href="https://github.com/ramennaut">ramennaut</a>.
