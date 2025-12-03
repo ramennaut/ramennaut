@@ -35,9 +35,11 @@ I'm an independent AI safety researcher and field-builder. I finished socio-anth
 ## How I'm using GitHub
 I'll be honest. I mainly used GitHub to submit school projects and hackathons. I haven't really made public much of the side projects I've built. I haven't even posted the actual *project* projects I've built through freelancing, org work, or even *work* work.
 <div id="stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramennaut&theme=dracula" alt="GitHub profile summary statistics">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramennaut&theme=dracula" alt="GitHub profile year summary" height="150px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramennaut&layout=compact&theme=dracula" alt="GitHub top languages" height="150px">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramennaut&theme=gotham" alt="GitHub profile summary statistics" height="150px">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramennaut&theme=gotham" height="150px">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramennaut&theme=gotham" alt="GitHub top languages" height="150px">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramennaut&theme=gotham" height="150px">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramennaut&theme=gotham&utcOffset=8" alt="GitHub commits" height="150px">
 </div>
 
 ---
