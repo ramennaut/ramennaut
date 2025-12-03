@@ -29,46 +29,11 @@
 
 <!-- About -->
 ## Hi, I'm Lenz.
-I'm an independent AI safety researcher and field-builder. I finished socio-anthropology and computer science at uni, and I like to code during my free time. I like working at the interface of tech and culture. If it's something that looks at how a group of people reacts to something new in their environment, then I'm probably into it. Simulations and modeling is sort of what I'm good at. I'm also particularly into documentation (a weird thing to be into) and creating usable datasets to help out other projects.
-
-<!-- Tech -->
-## The tech I've used more than once
-This is arranged according to frequency of use, from daily to at least a few projects in the last 4 years.
-
-### Tools
-<div id="tools">
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Obsidian">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau">
-    <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt="Overleaf">
-    <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
-</div>
-
-### Stack
-<div id="stack">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-    <img src="https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
-
-## The tech I want to learn
-I'm always looking to expand what I can do. This is a list of tech I probably used a few times but I still haven't figured out.
-<div id="study">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-</div>
-
+I'm an independent AI safety researcher and field-builder. I finished socio-anthropology and computer science at uni, and I like to code during my free time. I work at the interface of tech and culture. If it's something that looks at how a group of people reacts to something new in their environment, then I'm probably into it. Simulations and modeling is sort of what I'm good at. I'm also particularly into documentation (a weird thing to be into) and creating usable datasets to help out other projects.
 
 <!-- GitHub Stats -->
 ## How I'm using GitHub
-I'll be honest. I use GitHub mainly to submit my coding projects for school, and maybe some hackathons here and there. I haven't posted side projects I've built. I haven't even posted the actual *project* projects I coded from my freelance work, org work, or even *work* work.
+I'll be honest. I mainly used GitHub to submit school projects and hackathons. I haven't really made public much of the side projects I've built. I haven't even posted the actual *project* projects I've built through freelancing, org work, or even *work* work.
 <div id="stats">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramennaut&theme=dracula" alt="GitHub profile summary statistics">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramennaut&theme=dracula" alt="GitHub profile year summary" height="150px">
