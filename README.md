@@ -29,7 +29,7 @@
 
 <!-- About -->
 ## Hi, I'm Lenz.
-I'm an independent AI safety researcher and field-builder. I finished socio-anthropology and computer science at uni, and I like to code during my free time. I work at the interface of tech and culture. If it's something that looks at how a group of people reacts to something new in their environment, then I'm probably into it. Simulations and modeling is sort of what I'm good at. I'm also particularly into documentation (a weird thing to be into) and creating usable datasets to help out other projects.
+I'm an independent AI safety researcher and field-builder based in Metro Manila. I studied socio-anthropology and computer science at uni, and I like to code during my free time. I work at the interface of tech, policy, and culture so most of my research focuses on how communities and institutions around AI shape what gets built and who it affects. Day to day, I do policy research at AI4PH and independent technical AI safety work on the side. I'm also a facilitator for AI safety education programs across Southeast Asia.
 
 <!-- GitHub Stats -->
 ## How I'm using GitHub
@@ -43,4 +43,4 @@ I'll be honest. I mainly used GitHub to submit school projects and hackathons. I
 </div>
 
 ---
-**Colophon:** This README profile is a living markdown file -- always a work in progress. Last updated 04 Dec 2025 by <a href="https://github.com/ramennaut">ramennaut</a>.
+**Colophon:** This README profile is a living markdown file -- always a work in progress. Last updated 21 Mar 2026 by <a href="https://github.com/ramennaut">ramennaut</a>.
